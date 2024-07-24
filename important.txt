@@ -1,0 +1,5 @@
+GitHub Account info
+
+Email: farahftrisha@gmail.com
+Password: Abcd.@123
+path: C:\Users\Trisha\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Git
